@@ -9,7 +9,7 @@ Hey! I'm Victor. I currently work with computer vision, and have been working wi
 <p align="center">
 <a href="https://github.com/victorcoelh">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=victorcoelh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorcoelh&layout=compact&langs_count=8&theme=algolia"/>
+<!--  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=victorcoelh&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
 
