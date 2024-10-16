@@ -4,8 +4,8 @@ Hey! I'm Victor. I currently work with computer vision, and have been working wi
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Rust](https://rustacean.net/assets/rustacean-flat-happy.png)&nbsp;
+![Python](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg)&nbsp;
+![Rust](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/rust.svg)&nbsp;
 ![Tensorflow]()&nbsp;
 ![PyTorch]()&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
