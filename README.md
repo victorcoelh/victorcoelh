@@ -4,7 +4,7 @@ Hey! I'm Victor. I currently work with computer vision, and have been working wi
 
 ### 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,rust,ubuntu,opencv,linux,git,docker,c,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,opencv,anaconda,rust,c,docker,git,ubuntu,linux&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;Analytics
 
@@ -18,7 +18,7 @@ Hey! I'm Victor. I currently work with computer vision, and have been working wi
 ### 🤝🏻 &nbsp;Contact me
 
 <p align="center">
-<a href="https://victorcoelh.github.io/"><img src="https://img.shields.io/badge/-victorcoelh.github.io-3423A6?style=flat&logo=Github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/victorcoelh/"><img src="https://img.shields.io/badge/-victorcoelh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://victorcoelh.github.io/"><img src="https://img.shields.io/badge/-victorcoelh.github.io-3423A6?style=flat&logo=Github&logoColor=white"/></a>
 <a href="mailto:victorcoelho250602@gmail.com"><img src="https://img.shields.io/badge/-victorcoelho250602@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
