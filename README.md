@@ -1,10 +1,14 @@
 ### 🤔 About Me
 
+---
+
 Hey! I'm Victor. I currently work with computer vision, and have been working with machine learning for the past couple years. I've also worked quite a lot with low level programming with languages such as C and Rust, and I'm actually a huge Rust nerd. Feel free to reach me out if you want to!
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,opencv,anaconda,rust,c,docker,git,ubuntu,linux&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;Analytics
+
+---
 
 <p align="center">
 <a href="https://github.com/victorcoelh">
@@ -14,6 +18,8 @@ Hey! I'm Victor. I currently work with computer vision, and have been working wi
 </p>
 
 ### 🤝🏻 &nbsp;Contact me
+
+---
 
 <p align="center">
 <a href="https://www.linkedin.com/in/victorcoelh/"><img src="https://img.shields.io/badge/-victorcoelh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
